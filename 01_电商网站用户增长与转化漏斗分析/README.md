@@ -36,15 +36,7 @@
 | 展示版分析 | [`notebooks/展示版分析.ipynb`](./notebooks/展示版分析.ipynb) |
 | BigQuery 审计与事件扁平化 | [`sql/`](./sql/) |
 | MySQL 核心指标复现 | [`sql/06_MySQL核心指标复现.sql`](./sql/06_MySQL核心指标复现.sql) |
-| Tableau 总览 | [`assets/看板总览.jpg`](./assets/看板总览.jpg) |
-| 用户结构与渠道看板 | [`assets/用户结构与渠道.jpg`](./assets/用户结构与渠道.jpg) |
-| 项目说明与面试手册 | [`docs/项目说明与面试手册.docx`](./docs/项目说明与面试手册.docx) |
-
-## 看板预览
-
-![用户增长与转化看板总览](./assets/看板总览.jpg)
-
-![用户结构与首次渠道表现](./assets/用户结构与渠道.jpg)
+| Tableau 打包工作簿 | [`tableau/用户增长与转化分析看板.twbx`](./tableau/用户增长与转化分析看板.twbx) |
 
 ## 分析边界
 

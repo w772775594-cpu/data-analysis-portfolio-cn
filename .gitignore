@@ -6,6 +6,4 @@ env/
 data/
 *.csv
 *.xlsx
-*.twb
-*.twbx
 __pycache__/
